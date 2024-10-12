@@ -34,7 +34,6 @@ Source repository: https://github.com/gypsocat/gypsocat
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-![](https://raw.githubusercontent.com/gypsocat/gypsocat/refs/heads/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center">
@@ -45,6 +44,8 @@ Source repository: https://github.com/gypsocat/gypsocat
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gypsocat&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
+<img src="https://raw.githubusercontent.com/gypsocat/gypsocat/refs/heads/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gypsocat&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
