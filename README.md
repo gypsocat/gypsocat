@@ -61,7 +61,7 @@ Source repository: https://github.com/gypsocat/gypsocat
 <a href="https://github.com/gypsocat"><img src="https://img.shields.io/badge/GitHub-gypsocat-blue?logo=github" /></a>
 <a href="https://gitee.com/gypso"><img src="https://img.shields.io/badge/Gitee-gypso-blue?logo=gitee" /></a>
 <!-- <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" /></a> -->
-<a href="https://wakatime.com/@gypsocat"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+<a href="https://wakatime.com/@gypsocat"><img src="https://wakatime.com/badge/user/291c61b8-358c-4ab1-96c5-94f07c8f9b1b.svg" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=gypsocat" />
 </p>
